@@ -1,6 +1,6 @@
 package progect.scopaScoponeNapoletano;
 
-public class MainGioco {
+public class MainGameScopa {
     
 
     public static void main(String[] args) {
