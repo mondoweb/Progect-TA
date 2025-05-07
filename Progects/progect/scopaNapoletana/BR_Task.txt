@@ -1,3 +1,4 @@
+
             /****  BUISNESS  ROLE    SCOPA   ****/
 
 -    (  2 /4)  due o quattro  giocatori     ->  feature/RXRPD-00001
@@ -11,6 +12,3 @@
 
 
 -    vince  chi   arriva ad 11  nel caso di parità vince chi fa un punto in più di 11 o successivo          ->   feature/RXRPD-00005   
-
--    
-

@@ -1,4 +1,5 @@
-package progect.scopaScoponeNapoletano.enums;
+
+package progect.scopaNapoletana.enums;
 
 public enum ValoreCarta {
    ASSO(1), DUE(2), TRE(3), QUATTRO(4), CINQUE(5),
