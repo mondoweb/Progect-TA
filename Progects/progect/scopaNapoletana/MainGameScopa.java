@@ -1,4 +1,4 @@
-package progect.scopaScoponeNapoletano;
+package progect.scopaNapoletana;
 
 public class MainGameScopa {
     
