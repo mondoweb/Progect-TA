@@ -1,4 +1,6 @@
+
 package progect.scopaNapoletana.enums;
+
 
 public enum Seme {
     //  DENARI,    // --> DENARI("D")
