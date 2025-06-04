@@ -1,4 +1,4 @@
-package progect.scopaNapoletana;
+package project.scopaNapoletana;
 
 import java.util.*;
 
@@ -37,5 +37,7 @@ public class Giocatore {
     public void resetMano() {
         mano.clear();
     }
+
+    
 }
 

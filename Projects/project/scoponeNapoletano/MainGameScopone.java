@@ -1,11 +1,12 @@
+package project.scoponeNapoletano;
 
-package progect.scopaNapoletana;
-
-
-public class MainGameScopa {
+public class MainGameScopone {
     
+
 
     public static void main(String[] args) {
         
+
     }
+
 }
