@@ -1,6 +1,6 @@
-package progect.scopaNapoletana;
+package project.scopaNapoletana;
 
-import progect.scopaNapoletana.enums.*;
+import project.scopaNapoletana.enums.*;
 
 public class Carta {
     private ValoreCarta valoreCarta;

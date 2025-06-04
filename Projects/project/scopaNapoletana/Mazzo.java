@@ -1,7 +1,8 @@
-package progect.scopaNapoletana;
+package project.scopaNapoletana;
 import java.util.*;
 
-import progect.scopaNapoletana.enums.*;
+import project.scopaNapoletana.enums.*;
+
 
 
 

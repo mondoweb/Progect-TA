@@ -1,5 +1,5 @@
 
-package progect.scopaNapoletana.enums;
+package project.scopaNapoletana.enums;
 
 
 public enum Seme {

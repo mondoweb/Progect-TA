@@ -1,4 +1,4 @@
-package progect.setteMezzo;
+package project.setteMezzo;
 
 public class MainGameSettemezzo {
 
