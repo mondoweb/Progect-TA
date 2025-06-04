@@ -1,7 +1,7 @@
 
             /****  BUISNESS  ROLE    SCOPA   ****/
 
--    (  2 /4)  due o quattro  giocatori     ->  feature/RXRPD-00001
+-    (  2/3 / 4)  due/ tre o quattro giocatori     ->  feature/RXRPD-00001
 
 -    40 carte da scartare per essere uniche   ->  feature/RXRPD-00002
 
@@ -12,3 +12,6 @@
 
 
 -    vince  chi   arriva ad 11  nel caso di parità vince chi fa un punto in più di 11 o successivo          ->   feature/RXRPD-00005   
+
+
+
